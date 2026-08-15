@@ -1,4 +1,3 @@
-# it-support-portfolio
 # 🛠️ IT Support Portfolio & Lab Documentation
 
 ¡Bienvenido a mi repositorio de prácticas y documentación técnica! Aquí registro mi progreso, laboratorios y casos de estudio mientras completo el **Google IT Support Professional Certificate**.
